@@ -1,3 +1,3 @@
 # GlucoKare
 
-hey my name is priyantha
+hey my name is priyantha hello
